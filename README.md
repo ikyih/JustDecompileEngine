@@ -1,6 +1,6 @@
 # JustDecompile Engine
 
-Since the beginning of 2024, the original repository of JustDecompile’s decompilation engine is no longer publicly available. Progress Software owns the original JustDecompile and at the time of writing this, there is no official statement from Progress Software as to the fate of that original. Since there have been no changes whatsoever to the original JustDecompile ever since 2018 it is safe to assume it is effectively gone, though.
+Since the beginnijg of 2024, the original repository of JustDecompile’s decompilation engine is no longer publicly available. Progress Software owns the original JustDecompile and at the time of writing this, there is no official statement from Progress Software as to the fate of that original. Since there have been no changes whatsoever to the original JustDecompile ever since 2018 it is safe to assume it is effectively gone, though.
 
 CodeMerx is the home of the team that created the original JustDecompile. So CodeMerx now picks up the development of JustDecompile introducing [CodemerxDecompile](https://github.com/codemerx/CodemerxDecompile). Same engine, same people, same promise - free, forever.
 
